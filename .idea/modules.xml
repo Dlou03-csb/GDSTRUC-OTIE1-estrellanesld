@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GDSTRUC-OTIE1-estrellanesld.iml" filepath="$PROJECT_DIR$/GDSTRUC-OTIE1-estrellanesld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleProject/SampleProject.iml" filepath="$PROJECT_DIR$/SampleProject/SampleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleQuiz/SampleQuiz.iml" filepath="$PROJECT_DIR$/SampleQuiz/SampleQuiz.iml" />
+    </modules>
+  </component>
+</project>
